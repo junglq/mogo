@@ -44,6 +44,10 @@ hr {
     margin: 0 auto;
 }
 
+.section-work {
+    padding: 80px 0px 0px !important;
+}
+
 /* Intro */
 
 .intro {
